@@ -68,5 +68,6 @@ Each visual was created on a separate report page in Power BI and is included in
 - `CTATA.pbix` – Power BI project file
 - `screenshots/` – Visuals exported as PNG
 - `Presentation Script` – Executive summary of insights
+- `Tata_Forage` - Certificate
 
 ---
